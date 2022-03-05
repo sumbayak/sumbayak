@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @john saragih
+- 👋 Hi, I’m @john romario saragih
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning FrontEnd and BackEnd
 - 💞️ I’m looking to collaborate on website Developer
